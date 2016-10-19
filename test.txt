@@ -1,12 +1,2 @@
 this is the first line;
 this is the second line;
-{
-
-
-}
-
-
-
-
-new_branch: 1st line;
-new_branch: 2nd line;
